@@ -45,8 +45,8 @@
 
 <div align="center">
 
-## Featured Projects 📌
-Explore my highlighted work in the pinned repositories below
+## Featured Projects 
+Check out my pinned 📌 repositories below ⬇️
 
 </div>
 

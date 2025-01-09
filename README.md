@@ -3,6 +3,7 @@
 ## Tech Stack
 
 <div align="center">
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -41,10 +42,16 @@
 
 
 </div>
+
+#### Featured Projects
+Check out my pinned repositories below ⬇️
+
 <div align="center">
+
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-haturusinghe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.haturusinghe99@gmail.com)
-</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haturusinghe)
+
+</div>

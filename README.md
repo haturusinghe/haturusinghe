@@ -17,8 +17,6 @@ AI/NLP Researcher.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haturusinghe&show_icons=true&theme=radical)
 
 ## Let's Connect
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)

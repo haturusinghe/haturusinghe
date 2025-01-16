@@ -57,5 +57,8 @@ Check out my pinned 📌 repositories below ⬇️
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.haturusinghe99@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haturusinghe)
+<!---
+130
+-->
 
 </div>

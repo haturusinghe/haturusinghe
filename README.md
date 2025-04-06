@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 🌐 **Explore more about me and my work on my personal website**:  
-👉 [**shanilka.me**](https://shanilka.me/) 👈
+# 👉 [**shanilka.me**](https://shanilka.me/) 👈
 
 ---
 
@@ -54,7 +54,6 @@ Welcome to my GitHub profile!
 
 ## 🌟 Featured Projects 
 Check out my pinned 📌 repositories below ⬇️  
-Or explore more on [**shanilka.me**](https://shanilka.me/) 🧠
 
 </div>
 

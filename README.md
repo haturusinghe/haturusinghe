@@ -1,5 +1,12 @@
 # Hi there 👋
 
+Welcome to my GitHub profile!
+
+🌐 **Explore more about me and my work on my personal website**:  
+👉 [**shanilka.me**](https://shanilka.me/) 👈
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -9,7 +16,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  
+
 ### AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -45,20 +52,20 @@
 
 <div align="center">
 
-## Featured Projects 
-Check out my pinned 📌 repositories below ⬇️
+## 🌟 Featured Projects 
+Check out my pinned 📌 repositories below ⬇️  
+Or explore more on [**shanilka.me**](https://shanilka.me/) 🧠
 
 </div>
 
+---
+
 <div align="center">
 
-## Let's Connect
+## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-haturusinghe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.haturusinghe99@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haturusinghe)
-<!---
-136
--->
 
 </div>

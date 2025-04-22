@@ -7,6 +7,16 @@ Welcome to my GitHub profile!
 
 ---
 
+📰 **Latest Update**  
+> I'm thrilled to share that my first research paper,  
+> 📄 *"Subasa - Adapting Language Models for Low-Resourced Offensive Language Detection in Sinhala"*,  
+> based on my undergraduate thesis, has been accepted to **NAACL 2025 SRW**! 🎉  
+> *(Annual Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop)*  
+>  
+> 🔗 **Read the preprint**: [arXiv:2504.02178](https://arxiv.org/abs/2504.02178)
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -62,8 +72,8 @@ Check out my pinned 📌 repositories below ⬇️
 <div align="center">
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-haturusinghe)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.haturusinghe99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-haturusinghe)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.haturusinghe99@gmail.com)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haturusinghe)
 

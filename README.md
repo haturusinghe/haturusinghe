@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile!
 
-🌐 **Explore more about me and my work on my personal website**:  
-# 👉 [**shanilka.me**](https://shanilka.me/) 👈
+🔗 **Check out my personal website:** [**shanilka.me**](https://shanilka.me/)
+
 
 ---
 

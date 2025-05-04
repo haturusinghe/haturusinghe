@@ -7,10 +7,6 @@ Welcome to my GitHub profile!
 
 ---
 
-Thanks for the clarification! Here’s the updated GitHub README section reflecting the new full name of NAACL:
-
----
-
 📰 **Latest Update**
 
 > I'm happy to share that my first research paper,

@@ -7,13 +7,23 @@ Welcome to my GitHub profile!
 
 ---
 
-📰 **Latest Update**  
-> I'm thrilled to share that my first research paper,  
-> 📄 *"Subasa - Adapting Language Models for Low-Resourced Offensive Language Detection in Sinhala"*,  
-> based on my undergraduate thesis, has been accepted to **NAACL 2025 SRW**! 🎉  
-> *(Annual Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop)*  
->  
-> 🔗 **Read the preprint**: [arXiv:2504.02178](https://arxiv.org/abs/2504.02178)
+Thanks for the clarification! Here’s the updated GitHub README section reflecting the new full name of NAACL:
+
+---
+
+📰 **Latest Update**
+
+> I'm happy to share that my first research paper,
+> 📄 *"Subasa – Adapting Language Models for Low-Resourced Offensive Language Detection in Sinhala"*,
+> based on my undergraduate thesis, has been **published at NAACL 2025 SRW**! 🎉
+> *(Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Student Research Workshop)*
+>
+> 📚 **Citation**:
+> Shanilka Haturusinghe, Tharindu Cyril Weerasooriya, Christopher M. Homan, Marcos Zampieri, and Sidath Ravindra Liyanage. 2025. *Subasa – Adapting Language Models for Low-resourced Offensive Language Detection in Sinhala.* In *Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop)*, pages 260–270, Albuquerque, USA. Association for Computational Linguistics.
+>
+> 🔗 **Read the paper**: [ACL Anthology](https://aclanthology.org/2025.naacl-srw.26/)
+
+
 
 ---
 

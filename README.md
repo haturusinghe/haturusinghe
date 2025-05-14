@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 > I'm happy to share that my first research paper,
 > 📄 *"Subasa – Adapting Language Models for Low-Resourced Offensive Language Detection in Sinhala"*,
-> based on my undergraduate thesis, has been **published at NAACL 2025 SRW**! 🎉
+> has been **published at NAACL 2025 SRW**! 🎉
 > *(Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Student Research Workshop)*
 >
 > 📚 **Citation**:

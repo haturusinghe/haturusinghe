@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🔗 **Check out my personal website:** [**shanilka.me**](https://shanilka.me/)
+🔗 **Check out my personal website:** [**shanilka.dev**](https://shanilka.dev/)
 
 
 
